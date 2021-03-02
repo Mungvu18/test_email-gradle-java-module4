@@ -1,0 +1,14 @@
+config/AppInit.java
+ config.AppInit
+service/IGeneralService.java
+ service.IGeneralService
+service/Student/IStudentService.java
+ service.Student.IStudentService
+service/Student/StudentService.java
+ service.Student.StudentService
+model/Student.java
+ model.Student
+config/AppConfiguration.java
+ config.AppConfiguration
+controller/StudentController.java
+ controller.StudentController
